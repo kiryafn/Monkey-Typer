@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+/Users/alieksieiev/CLionProjects/SFML/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+/Users/alieksieiev/CLionProjects/SFML/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+/Users/alieksieiev/CLionProjects/SFML/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+/Users/alieksieiev/CLionProjects/SFML/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+/Users/alieksieiev/CLionProjects/SFML/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+/Users/alieksieiev/CLionProjects/SFML/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+/Users/alieksieiev/CLionProjects/SFML/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+/Users/alieksieiev/CLionProjects/SFML/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+/Users/alieksieiev/CLionProjects/SFML/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+/Users/alieksieiev/CLionProjects/SFML/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+/Users/alieksieiev/CLionProjects/SFML/MonkeyTyper/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule
